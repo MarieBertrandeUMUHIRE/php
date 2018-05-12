@@ -1,0 +1,148 @@
+
+
+#phone{
+    font-size: 12pt;
+    margin-left: 400pt;
+
+
+   
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+#buttonn {
+    background-color: green;
+    color: white;
+}
+
+.searchh {
+    margin-left: 300pt; width: 400pt;
+    }
+
+    body{
+        background:whitesmoke;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .navbar, .dropdown-menu{
+    background:rgba(255,255,255,0.25);
+    border: none;
+    
+    }
+    #navbar{
+        font-size: 18pt;
+       
+    }
+    
+    .nav>li>a, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .dropdown-menu>li>a, .dropdown-menu>li{
+      border-bottom: 3px solid transparent;
+    }
+    .nav>li>a:focus, .nav>li>a:hover,.nav .open>a, .nav .open>a:focus, .nav .open>a:hover, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+      border-bottom: 3px solid transparent;
+      background: none;
+      
+    .navbar a, .dropdown-menu>li>a, .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover, .navbar-toggle{
+     color: #fff;
+    }
+    .dropdown-menu{
+          -webkit-box-shadow: none;
+        box-shadow:none;
+    }
+    
+
+    .navbar-toggle .icon-bar{
+        color: #fff;
+        background: #fff;
+    }
+.box{
+    background: rgb(171, 166, 166);
+     height: 60px;
+
+}
+#customerstories{
+color: rgb(7, 51, 90); 
+margin-left: 23pt;
+}
+
+.row{
+    float: left;
+}
+
+.logos {
+background-color:#e9e8e7; 
+height: 270px;
+}
+
+#definition{
+
+    margin-left: 20px;
+}
+
+
+
+body{
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  footer{
+      background-color:#222222;
+      padding: 60px 0px;
+  }
+  
+  footer ul{
+      list-style:none;
+      margin:0 auto;
+      display:inline-block;
+      padding-top:50px;
+  }
+  
+  footer ul li{
+      float:left;
+  }
+  
+  footer ul li a{
+      color:#b1aca1;
+      padding:20px;
+  }
+  
+  footer ul li a:hover{
+      color:#7dabdb;
+      text-decoration:none;
+  }
+  
+  .footer-top{
+      padding-bottom:50px;
+  }
+  
+  .footer-top .fa{
+      font-size:18px;
+      color: #FFF;
+      padding-right:10px;
+  }
+  
+  .footer-top a{
+      color:#FFF;
+      text-decoration:none;
+  }
+  
+  .footer-top .col-lg-2:hover .fa , .footer-top .col-lg-2:hover a{
+      color:#7dabdb;
+  }
+  
+  .copyright{
+      background-color:#f0f0f0;
+  }
+  
+  .copyright p{
+      font-size:12px;
+      padding:15px 0 10px 0;
+  }
+  
+  
